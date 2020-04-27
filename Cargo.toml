@@ -1,5 +1,5 @@
 [package]
-name = "StringCalculator"
+name = "string_calculator"
 version = "0.1.0"
 authors = ["Marc Biegota <marc.biegota@5minds.de>"]
 edition = "2018"
